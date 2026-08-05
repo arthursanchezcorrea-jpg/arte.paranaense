@@ -1,10 +1,10 @@
 body {
-    background-color: #00FF51;
+    background-color: #4fa169;
     color: #103B1E;
     font-family: Arial, sans-serif;
 }
 header {
-    background-color: #D6FFC4;
+    background-color: #4ba126;
     color: White;
     text-align: center;
     padding: 30px;
@@ -14,7 +14,7 @@ h1 {
     font-size: 36px;
 }
 h2 {
-    color: #389674;
+    color: #135a40;
 }
 p {
     font-size: 18px;
