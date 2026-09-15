@@ -86,3 +86,16 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+
+button{
+    background-color: #86ff8c;
+    color: #103B1E;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #57b173;
+}
