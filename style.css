@@ -99,3 +99,9 @@ button{
 button:hover{
     background-color: #57b173;
 }
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+}
